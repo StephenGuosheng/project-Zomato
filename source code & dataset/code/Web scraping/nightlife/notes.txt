@@ -1,0 +1,7 @@
+the code is applied to three websites respectively, namely
+
+https://www.zomato.com/roma/drinks-and-nightlife (nightlife in Roma)
+
+https://www.zomato.com/mumbai/drinks-and-nightlife (nightlife in Mumbai)
+
+https://www.zomato.com/seattle/drinks-and-nightlife (nightlife in Seattle)
